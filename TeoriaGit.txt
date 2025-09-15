@@ -2,4 +2,22 @@ Git (pronunciado "guit"2​) es un software de control de versiones diseñado po
 
 Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end como Cogito o StGIT. 3​ Sin embargo, Git se ha convertido desde entonces en un sistema de control de versiones con funcionalidad plena. 4​ Hay algunos proyectos de mucha relevancia que ya usan Git, en particular, el grupo de programación del núcleo Linux.
 
-El mantenimiento del software Git está actualmente (2009) supervisado por Junio Hamano, quien recibe contribuciones al código de alrededor de 280 programadores. En cuanto a derechos de autor Git es un software libre distribuible bajo los términos de la versión 2 de la Licencia Pública General de GNU.Juan Guillermo Perez Vega
+El mantenimiento del software Git está actualmente (2009) supervisado por Junio Hamano, quien recibe contribuciones al código de alrededor de 280 programadores. En cuanto a derechos de autor Git es un software libre distribuible bajo los términos de la versión 2 de la Licencia Pública General de GNU.
+Características:
+Fuerte apoyo al desarrollo no lineal, por ende, rapidez en la gestión de ramas y mezclado de
+diferentes versiones. Git incluye herramientas específicas para navegar y visualizar un historial de
+desarrollo no lineal. Una presunción fundamental en Git es que un cambio será fusionado mucho
+más frecuentemente de lo que se escribe originalmente, conforme se pasa entre varios
+programadores que lo revisan.Los almacenes de información pueden publicarse por HTTP, FTP, rsync o mediante un protocolo
+nativo, ya sea a través de una conexión TCP/IP simple o a través de cifrado SSH. Git también puede
+emular servidores CVS, lo que habilita el uso de clientes CVS pre-existentes y módulos IDE para CVS
+pre-existentes en el acceso de repositorios Git.GitHub
+GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el
+sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de
+programas de computadora. El software que opera GitHub fue escrito en Ruby on Rails. Desde
+enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como
+Logical Awesome LLC. El código de los proyectos alojados en GitHub se almacena típicamente de
+forma pública, aunque utilizando una cuenta de pago, también permite hospedar repositorios
+privados.
+
+
